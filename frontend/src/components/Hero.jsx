@@ -38,13 +38,14 @@ const HeroSection = () => {
           className="text-center md:text-left max-w-full sm:max-w-xl"
         >
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold leading-snug md:leading-tight mb-4 sm:mb-6">
-            Building an <span className="text-red-600">Inclusive Future</span>  
-            <br className="hidden md:block" /> for Deaf Learners in Rwanda
+            Building an <span className="text-red-600">Inclusive Future</span>
+            <br className="hidden md:block" /> for Learners with Hearing Disabilities in Rwanda
           </h1>
 
           <p className="text-base sm:text-lg md:text-xl text-gray-600 mb-6 sm:mb-8">
-            We are a passionate team dedicated to ensuring every deaf child in Rwanda has access to quality education — where inclusion, equality, and understanding guide every lesson.
+            We are a dedicated team working to ensure that learners with hearing disabilities in Rwanda have access to quality, inclusive education where equality, understanding, and empowerment guide every learning experience.
           </p>
+
 
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center md:justify-start">
             <Link
