@@ -2,6 +2,8 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import Joshua from '../assets/images/Joshua.jpeg'
 import Abay from '../assets/images/AbayProfilePic.png'
+import Rahnia from '../assets/images/Rahnia.jpg'
+import Fidel from '../assets/images/Fidel.jpg'
 
 const Team = () => {
   const placeholder =
@@ -32,14 +34,14 @@ const Team = () => {
     {
       name: 'Rhania Uwineza Akintore',
       email: 'r.uwinezaa@alustudent.com',
-      image: placeholder,
+      image:Rahnia ,
       words:
         'Rhania is committed to empowering young learners through mentorship and inclusive programs. She believes education should celebrate diversity and help every learner thrive in their unique way.',
     },
     {
       name: 'Fidel Muhire',
       email: 'f.muhire@alustudent.com',
-      image: placeholder,
+      image: Fidel,
       words:
         'Fidel drives innovation in accessibility. He focuses on designing assistive tools and training educators to better support deaf and hard-of-hearing students in both digital and physical classrooms.',
     },

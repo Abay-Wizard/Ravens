@@ -36,7 +36,7 @@ const Challenges = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-white to-red-50 text-gray-800 px-6 py-16 md:px-20">
+    <div className="min-h-screen bg-linear-to-b from-white to-red-50 text-gray-800 px-6 py-16 md:px-20">
       {/* Page Title */}
       <motion.h1
         initial={{ opacity: 0, y: -30 }}
