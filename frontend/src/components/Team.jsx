@@ -4,10 +4,9 @@ import Joshua from '../assets/images/Joshua.jpeg'
 import Abay from '../assets/images/AbayProfilePic.png'
 import Rahnia from '../assets/images/Rahnia.jpg'
 import Fidel from '../assets/images/Fidel.jpg'
+import Beza from '../assets/images/Beza.jpg'
 
 const Team = () => {
-  const placeholder =
-    'https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=800&q=80'
 
   const team = [
     {
@@ -27,7 +26,7 @@ const Team = () => {
     {
       name: 'Beza Ketia',
       email: 'b.ketia@alustudent.com',
-      image: placeholder,
+      image: Beza,
       words:
         'Beza focuses on community engagement and awareness. She helps bridge the gap between schools, parents, and organizations to promote understanding and advocacy for deaf education in Rwanda.',
     },
